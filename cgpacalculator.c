@@ -1169,7 +1169,6 @@ dash:
 
                 }
 
-//rafibugfix   printf("\n tmarks %d",tmarks);
                 st.cgpa=total/totalcredit;
                 s[ind].cg=st.cgpa;
                 strcpy(s[ind].grading, "NSU Standard");
