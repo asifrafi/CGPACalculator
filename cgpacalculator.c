@@ -7,7 +7,7 @@ struct student
     char username[20];
     char password[20];
     float cg;
-    char grading[30];
+    char grading[30]; // test
     int s;
     int crs;
 };
